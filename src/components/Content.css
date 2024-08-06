@@ -1,0 +1,22 @@
+.increment{
+    background-color:rgba(22, 22, 240, 0.872);
+}
+
+.decrement{
+    background-color:rgba(58, 58, 201, 0.872);
+}
+
+.reset{
+    background-color:rgba(72, 72, 167, 0.813);
+}
+
+button{
+    
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 24px;
+    margin: 4px 2px;
+    width: 300px;
+}
+
